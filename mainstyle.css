@@ -39,6 +39,6 @@ body{
 }
 
 .box:hover .input{
-    width: 300px;
+    width: 400px;
     padding: 0 6px;
 }
